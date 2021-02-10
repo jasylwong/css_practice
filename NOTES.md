@@ -16,3 +16,12 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 
 [Video 3](https://www.youtube.com/watch?v=w0KZhi3DD-0&ab_channel=TheNetNinja): Fonts & colours
 - See Tailwind docs for colour scheme and class names
+- Colour eg: text-gray-600
+- Weight eg: font-semibold
+- Size eg: text-2xl
+
+[Video 4](https://www.youtube.com/watch?v=1g4W2U-l350&ab_channel=TheNetNinja): Margin, Padding & Borders
+- Padding eg: p-4, py-6
+- Margin eg: mt-4, ml-4
+- Border eg: border-8, border-t, border-l-4, border-gray-200
+
