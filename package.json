@@ -1,20 +1,23 @@
 {
-  "name": "tailwindcss",
+  "name": "ninjafood",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "npx tailwindcss-cli@latest build ./src/styles.css -o ./public/styles.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasylwong/tailwindcss.git"
+    "url": "git+https://github.com/jasylwong/ninjafood.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasylwong/tailwindcss/issues"
+    "url": "https://github.com/jasylwong/ninjafood/issues"
   },
-  "homepage": "https://github.com/jasylwong/tailwindcss#readme"
+  "homepage": "https://github.com/jasylwong/ninjafood#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
 }
