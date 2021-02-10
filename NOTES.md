@@ -12,5 +12,7 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
     `"npx tailwindcss-cli@latest build ./src/styles.css -o ./public/styles.css"`
 - `$npm run build-css`
 
-[Video 2](https://www.youtube.com/watch?v=3ZMUgga6SsY&ab_channel=TheNetNinja)
-(HTML structure)
+[Video 2](https://www.youtube.com/watch?v=3ZMUgga6SsY&ab_channel=TheNetNinja): HTML structure
+
+[Video 3](https://www.youtube.com/watch?v=w0KZhi3DD-0&ab_channel=TheNetNinja): Fonts & colours
+- See Tailwind docs for colour scheme and class names
