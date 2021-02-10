@@ -11,3 +11,6 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Add script to package.json for building the public css script
     `"npx tailwindcss-cli@latest build ./src/styles.css -o ./public/styles.css"`
 - `$npm run build-css`
+
+[Video 2](https://www.youtube.com/watch?v=3ZMUgga6SsY&ab_channel=TheNetNinja)
+(HTML structure)
