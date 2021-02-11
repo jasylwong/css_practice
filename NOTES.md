@@ -31,3 +31,12 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Add styles as required in the new tailwind.config.js file
 - Then reprocess styles using `$npm run build-css`
 - Optional: Add Tailwind CSS IntelliSense VS Code extension
+
+[Video 6](https://www.youtube.com/watch?v=arfDRUIZOiw&ab_channel=TheNetNinja): Custom fonts
+- Default font is sans
+- Font eg: font-serif
+- For custom fonts, eg from Google, @import them from fonts.google.com into src/styles.css
+- Then extend in config file using fontFamily and font name
+- Then reprocess styles using `$npm run build-css`
+
+
