@@ -39,4 +39,21 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Then extend in config file using fontFamily and font name
 - Then reprocess styles using `$npm run build-css`
 
+[Video 7](https://www.youtube.com/watch?v=WK6u8YDYqak&ab_channel=TheNetNinja): Using Flexbox
+- Flex horizontal eg: flex justify-center
+- Flex vertical eg: flex items-end
+- Height eg: h-4
+- Weight eg: w-6
 
+[Video 8](): 
+[Video 9](): 
+[Video 10](): 
+[Video 11](): 
+[Video 12](): 
+[Video 13](): 
+[Video 14](): 
+[Video 15](): 
+[Video 16](): 
+[Video 17](): 
+[Video 18](): 
+[Video 19](): 
