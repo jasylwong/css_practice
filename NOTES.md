@@ -49,8 +49,10 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Don't have to use mediaqueries when using Tailwind, just prefix our TW classes with responsive classes
 - Responsive class eg: text-yellow-300  sm:text-red-500 lg:text-blue-200
 
-[Video 9](): 
-- 
+[Video 9](https://www.youtube.com/watch?v=vqKie-xmcFs&ab_channel=TheNetNinja): Cards
+- Cards eg: rounded overflow-hidden shadow-md
+- Add 'block' to class to send text on to next line
+- Add 'object-cover' to class to takes out image size distortion
 
 [Video 10](): 
 - 
