@@ -54,8 +54,8 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Add 'block' to class to send text on to next line
 - Add 'object-cover' to class to takes out image size distortion
 
-[Video 10](): 
-- 
+[Video 10](https://www.youtube.com/watch?v=cY0XJY98d3w&ab_channel=TheNetNinja): Badges
+- Positioning eg: relative
 
 [Video 11](): 
 -
