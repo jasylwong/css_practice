@@ -25,3 +25,9 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Margin eg: mt-4, ml-4
 - Border eg: border-8, border-t, border-l-4, border-gray-200
 
+[Video 5](https://www.youtube.com/watch?v=6UVQlB1eo5A&ab_channel=TheNetNinja): Tailwind config
+- Use config to extend or add to default rules
+- `$npx tailwindcss-cli@latest init`
+- Add styles as required in the new tailwind.config.js file
+- Then reprocess styles using `$npm run build-css`
+- Optional: Add Tailwind CSS IntelliSense VS Code extension
