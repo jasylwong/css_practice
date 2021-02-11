@@ -45,15 +45,40 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Height eg: h-4
 - Weight eg: w-6
 
-[Video 8](): 
+[Video 8](https://www.youtube.com/watch?v=VYFjvMfVv2o&ab_channel=TheNetNinja): Responsive classes
+- Don't have to use mediaqueries when using Tailwind, just prefix our TW classes with responsive classes
+- Responsive class eg: text-yellow-300  sm:text-red-500 lg:text-blue-200
+
 [Video 9](): 
+- 
+
 [Video 10](): 
+- 
+
 [Video 11](): 
+-
+
 [Video 12](): 
+- 
+
 [Video 13](): 
+- 
+
 [Video 14](): 
+- 
+
 [Video 15](): 
+- 
+
 [Video 16](): 
+- 
+
 [Video 17](): 
+- 
+
 [Video 18](): 
+- 
+
 [Video 19](): 
+- 
+
