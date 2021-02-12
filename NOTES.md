@@ -72,8 +72,8 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - https://heroicons.dev/
 - Copy the icon, and pasted it into your html file. Can use Tailwind classes with these eg class="w-5 inline-block"
 
-[Video 15](): 
-- 
+[Video 15](https://www.youtube.com/watch?v=t19h2Ki_DUw&ab_channel=TheNetNinja): Hover 
+- Hover eg: hover:text-red-700 hover:shadow-inner
 
 [Video 16](): 
 - 
