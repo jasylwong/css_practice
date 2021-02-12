@@ -62,8 +62,8 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 - Extracting classes into external selectors inside the styles.css file
 - Use @apply in css class. Bit like mixin
 
-[Video 12](): 
-- 
+[Video 12](https://www.youtube.com/watch?v=_r2qB44o_Fs&ab_channel=TheNetNinja): Grids
+- Grid eg: grid grid-cols-3 gap-10, col-span-2
 
 [Video 13](): 
 - 
