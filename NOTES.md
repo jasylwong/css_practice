@@ -68,8 +68,9 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 [Video 13](https://www.youtube.com/watch?v=kMiMlB5PZRM&ab_channel=TheNetNinja): Buttons
 - Button eg: rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider
 
-[Video 14](): 
-- 
+[Video 14](https://www.youtube.com/watch?v=aNmBiqK2uQ0&ab_channel=TheNetNinja): Icons
+- https://heroicons.dev/
+- Copy the icon, and pasted it into your html file. Can use Tailwind classes with these eg class="w-5 inline-block"
 
 [Video 15](): 
 - 
