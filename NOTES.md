@@ -65,8 +65,8 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 [Video 12](https://www.youtube.com/watch?v=_r2qB44o_Fs&ab_channel=TheNetNinja): Grids
 - Grid eg: grid grid-cols-3 gap-10, col-span-2
 
-[Video 13](): 
-- 
+[Video 13](https://www.youtube.com/watch?v=kMiMlB5PZRM&ab_channel=TheNetNinja): Buttons
+- Button eg: rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider
 
 [Video 14](): 
 - 
