@@ -57,8 +57,10 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 [Video 10](https://www.youtube.com/watch?v=cY0XJY98d3w&ab_channel=TheNetNinja): Badges
 - Positioning eg: relative
 
-[Video 11](): 
--
+[Video 11](https://www.youtube.com/watch?v=somWrB-wumY&ab_channel=TheNetNinja): @apply directive
+- Tips for using multiple classes or badges, and changing styles of cards easily
+- Extracting classes into external selectors inside the styles.css file
+- Use @apply in css class. Bit like mixin
 
 [Video 12](): 
 - 
