@@ -78,11 +78,13 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 [Video 16](https://www.youtube.com/watch?v=Yn7C8MI6ymo&ab_channel=TheNetNinja): Responsive Nav & Sidebar (pt1)
 - For desktops and larger screens
 
-[Video 17](): 
-- 
+[Video 17](https://www.youtube.com/watch?v=kdF-OVtBtHU&ab_channel=TheNetNinja): Responsive Nav & Sidebar (pt2)
+- For mobiles (see burger)
+- hidden md:block
 
-[Video 18](): 
-- 
+[Video 18](https://www.youtube.com/watch?v=0zA6GZa2ZKc&ab_channel=TheNetNinja): Transitions
+- Transition eg: transition ease-out duration-500
+- Transform eg: transform hover:scale-125 hover:bg-opacity-50
 
 [Video 19](): 
 - 
