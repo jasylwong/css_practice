@@ -75,8 +75,8 @@ Code: https://github.com/iamshaunjp/tailwind-tutorial
 [Video 15](https://www.youtube.com/watch?v=t19h2Ki_DUw&ab_channel=TheNetNinja): Hover 
 - Hover eg: hover:text-red-700 hover:shadow-inner
 
-[Video 16](): 
-- 
+[Video 16](https://www.youtube.com/watch?v=Yn7C8MI6ymo&ab_channel=TheNetNinja): Responsive Nav & Sidebar (pt1)
+- For desktops and larger screens
 
 [Video 17](): 
 - 
